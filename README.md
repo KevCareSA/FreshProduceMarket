@@ -1,6 +1,6 @@
 # Fresh Produce Market
 
-This project is a web application for a fresh produce market.
+This project is a web application for a Fresh Produce Parket.
 
 ## Introduction
 
